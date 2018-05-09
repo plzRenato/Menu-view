@@ -158,7 +158,7 @@ function checkOnline()
 </script>
 <div id="container">
     <div id="header">
-        <h1><a href="MENU-view.php">Contatti Aziende</a></h1>
+        <h1><a href="MENU-view-en.php">Contatti Aziende</a></h1>
         <?php
             session_start();
             print_r($_SESSION);
